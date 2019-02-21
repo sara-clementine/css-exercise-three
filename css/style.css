@@ -17,13 +17,18 @@ body {
 nav {
   background-color: #000;
   margin: 0% auto;
-  padding: 1% 0% 3.5% 1.5%;
   position: fixed;
   width: 50%;
+  height: 75px;
+}
+
+.arrow-left{
+  margin-top: 25px;
+  margin-left: 10%;
 }
 
 .restaurant-list {
-  padding-top: 15%;
+  padding-top: 75px;
   width: 100%;
 }
 
