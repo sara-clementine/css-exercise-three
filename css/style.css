@@ -1,0 +1,65 @@
+body {
+  background-color: #333;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: #DAD9DB;
+  margin: 0% auto;
+  width: 50%;
+}
+
+nav {
+  background-color: #000;
+  margin: 0% auto;
+  padding: 1% 0% 3.5% 1.5%;
+  position: fixed;
+  width: 50%;
+}
+
+.restaurant-list {
+  padding-top: 15%;
+  width: 100%;
+}
+
+.location:hover {
+  background-color: #ABA9AB;
+}
+
+.location {
+  border: 1px solid #000;
+  width: 100%;
+}
+
+.content {
+  margin: 3%;
+  padding: 3%;
+  width: 75%;
+  display: inline-block;
+}
+
+h1 {
+  font-size: 1.2em;
+  line-height: 1.2;
+  font-weight: 750;
+}
+
+h3 {
+  font-size: 1em;
+  line-height: 1.2;
+  font-weight: 500;
+}
+
+.arrow {
+  float: right;
+  margin: 0%;
+  padding: 5% 0% 5% 0%;
+  position: relative;
+  width: 10%;
+  display: inline-block;
+}
