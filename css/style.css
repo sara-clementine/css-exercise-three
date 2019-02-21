@@ -63,3 +63,19 @@ h3 {
   width: 10%;
   display: inline-block;
 }
+
+.container {
+  margin: 0 auto;
+  width: 420px;
+}
+
+nav {
+  margin: 0 auto;
+  padding: 10px 0 15px 15px;
+  position: fixed;
+  width: 420px;
+}
+
+.restaurant-list {
+  padding-top: 50px;
+}
